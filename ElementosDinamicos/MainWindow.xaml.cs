@@ -20,9 +20,17 @@ namespace ElementosDinamicos
     /// </summary>
     public partial class MainWindow : Window
     {
+        Brush PincelPersonalizado; // Nueva instancia de esta clase para generar colores aleatorios para los cuadros.
+        Random aleatorio = new Random(); // Variable aleatoria.
+
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void agregarYEliminarElementos(object sender, MouseButtonEventArgs e)
+        {
+            // EN INSTANTES...
         }
     }
 }
