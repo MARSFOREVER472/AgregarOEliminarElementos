@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ElementosDinamicos"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Agregar o Eliminar Elementos" Height="350" Width="525" FocusManager.FocusedElement="{Binding ElementName=MyCanvas}">
+    <Canvas Name="MyCanvas" Focusable="True" MouseLeftButtonDown="agregarYEliminarElementos" Background="CornflowerBlue">
         
-    </Grid>
+    </Canvas>
 </Window>
