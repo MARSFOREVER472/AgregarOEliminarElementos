@@ -27,6 +27,10 @@
 
   ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/09a4e2fb-46a4-4f9e-94f9-ca58c403188f)
 
+- Agregue la parte resaltada al título de la aplicación, esto activará el administrador de enfoque y mantendrá el lienzo principal enfocado mientras se ejecuta la aplicación.
+
+  ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/e7303699-a388-408f-8543-087f3b304d22)
+
 
 Kind regards!
 
