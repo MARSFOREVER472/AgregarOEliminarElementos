@@ -12,6 +12,13 @@
   - Capturar los clicks del mouse a los cuadriláteros y eliminar el cuadrilátero en el que se hizo click.
   - Agregar colores aleatorios a los cuadriláteros para que los reconozca en el sistema.
 
+### Tutoriales escritos y código fuente a continuación:
+
+- Abra Visual Studio e inicie un nuevo proyecto.
+
+  ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/7226c288-8115-4531-a695-92c2334f766a)
+
+
 Kind regards!
 
 ***MARSFOREVER472***
