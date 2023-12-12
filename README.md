@@ -23,6 +23,11 @@
 
   ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/9803c6b5-ed27-494a-bf2f-f55cda46544e)
 
+- Esta es la vista predeterminada del proyecto hasta el momento. Haremos algunos cambios en la parte inferior del código aquí.
+
+  ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/09a4e2fb-46a4-4f9e-94f9-ca58c403188f)
+
+
 Kind regards!
 
 ***MARSFOREVER472***
