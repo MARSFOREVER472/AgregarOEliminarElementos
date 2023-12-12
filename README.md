@@ -31,6 +31,10 @@
 
   ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/e7303699-a388-408f-8543-087f3b304d22)
 
+- Necesitamos eliminar esta cuadrícula y agregar lienzo aquí.
+
+  ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/3b453576-6168-47d3-8985-51337bccdf4a)
+
 
 Kind regards!
 
