@@ -43,6 +43,11 @@
 
   ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/fdfa76bd-bbde-4bee-890e-d3f16d559893)
 
+- Esto nos llevará a la página del script C# y agregará la definición automáticamente.
+- Puedes escribirlo manualmente pero de esta manera es más rápido.
+
+  ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/93076557-b839-4d4b-adeb-1b79294c6dd5)
+
 
   
 
