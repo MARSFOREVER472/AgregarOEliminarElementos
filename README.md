@@ -80,8 +80,6 @@ Establezca la posición del rectángulo en la ubicación del clic (X e Y)
 Agrega el rectángulo a la pantalla.
 ```
 
-EN INSTANTES...
-
 Kind regards!
 
 ***MARSFOREVER472***
