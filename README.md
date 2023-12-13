@@ -37,7 +37,7 @@
 
 - Este lienzo que agregamos tiene sus propias propiedades dentro de él. Primero le dimos un nombre para poder interactuar con él desde el script C#, también configuramos el enfoque enfocable en verdadero.
 - Este lienzo tiene un evento con el botón izquierdo del mouse llamado addRemoveItems y tiene un color de fondo blanco.
-- El evento agregar eliminar elementos se utilizará para verificar dónde hicimos clic en el lienzo y dónde agregar los elementos.
+- El evento agregar y/o eliminar elementos se utilizará para verificar dónde hicimos clic en el lienzo y dónde agregar los elementos.
 - Por ahora esto es todo lo que necesitamos para este lienzo. Ahora podemos comenzar a agregar códigos C# para este proyecto.
 - Haga clic derecho en la palabra clave addRemoveItems y haga clic en Ir a definición.
 
