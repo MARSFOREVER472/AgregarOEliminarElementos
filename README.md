@@ -48,6 +48,11 @@
 
   ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/93076557-b839-4d4b-adeb-1b79294c6dd5)
 
+- Este es el script C# para esta aplicación hasta ahora, necesitaremos agregar un par de variables aquí y luego podremos comenzar con el evento.
+
+  ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/c7c8f624-9e9e-4564-92df-95da9fc15d54)
+
+
 
   
 
