@@ -58,6 +58,28 @@
 - Queremos que cada cuadro sea diferente al anterior, por lo que debemos convertirlo en un color aleatorio para poder generar colores aleatorios, necesitamos la segunda línea.
 - Random r = new Random() ayudará a crear números aleatorios entre dos valores.
 
+- Programemos el evento agregar eliminar elementos ahora y veamos qué hace.
+  
+Aquí está la lógica detrás del evento:
+
+```
+Primero comprobamos si hacemos clic en un rectángulo existente.
+
+IF so
+
+Identifica este rectángulo
+
+Eliminar el rectángulo identificado de la pantalla
+
+IF NOT (ELSE)
+
+Crea un nuevo rectángulo (aplica tamaño, color aleatorio, borde, etc.)
+
+Establezca la posición del rectángulo en la ubicación del clic (X e Y)
+
+Agrega el rectángulo a la pantalla.
+```
+
 EN INSTANTES...
 
 Kind regards!
