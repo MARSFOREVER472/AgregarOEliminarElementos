@@ -52,9 +52,13 @@
 
   ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/c7c8f624-9e9e-4564-92df-95da9fc15d54)
 
+- Agregue las dos líneas siguientes encima de la función de la ventana principal.
+- Estas dos líneas representan dos variables que necesitaremos para esta aplicación.
+- El primer Brush Custombrush es una variable Brush que nos permitirá crear nuevos colores para los cuadros.
+- Queremos que cada cuadro sea diferente al anterior, por lo que debemos convertirlo en un color aleatorio para poder generar colores aleatorios, necesitamos la segunda línea.
+- Random r = new Random() ayudará a crear números aleatorios entre dos valores.
 
-
-  
+EN INSTANTES...
 
 Kind regards!
 
