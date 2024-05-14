@@ -4,7 +4,7 @@
 - **_Esta técnica será muy útil para el desarrollo de juegos, ya que podemos agregar o eliminar dinámicamente objetos de la pantalla según sea necesario._**
 - **_Estamos utilizando Microsoft Visual Studio 2017 para crear esta aplicación que puede seguir junto con cualquier versión que admita la aplicación de formulario WPF._**
 
-- Objetivos de este proyecto:
+### Objetivos de este proyecto:
 
   - Crear una aplicación que agrega y elimina todos los cuadriláteros de la escena.
   - Crear eventos de clic del mouse para trabajar con el elemento del lienzo en WPF.
