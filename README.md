@@ -7,7 +7,7 @@
 ### Objetivos de este proyecto:
 
   - **_Crear una aplicación que agrega y elimina todos los cuadriláteros de la escena._**
-  - _Crear eventos de clic del mouse para trabajar con el elemento del lienzo en WPF._
+  - **_Crear eventos de clic del mouse para trabajar con el elemento del lienzo en WPF._**
   - _Capturar la ubicación del click del mouse y agregue cuadriláteros a esa ubicación._
   - _Capturar los clicks del mouse a los cuadriláteros y eliminar el cuadrilátero en el que se hizo click._
   - _Agregar colores aleatorios a los cuadriláteros para que los reconozca en el sistema._
