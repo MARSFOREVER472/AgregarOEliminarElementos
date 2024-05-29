@@ -19,7 +19,7 @@
   ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/7226c288-8115-4531-a695-92c2334f766a)
 
 - **_Nómbrelo Agregar y quitar elementos dinámicamente y haga clic en Aceptar._**
-- Asegúrese de guardar este archivo de proyecto en una ubicación donde pueda encontrarlo nuevamente.
+- _Asegúrese de guardar este archivo de proyecto en una ubicación donde pueda encontrarlo nuevamente._
 
   ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/9803c6b5-ed27-494a-bf2f-f55cda46544e)
 
