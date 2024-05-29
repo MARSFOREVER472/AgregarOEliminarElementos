@@ -14,7 +14,7 @@
 
 ### Tutoriales escritos y código fuente a continuación:
 
-- _Abra Visual Studio e inicie un nuevo proyecto._
+- **_Abra Visual Studio e inicie un nuevo proyecto._**
 
   ![image](https://github.com/MARSFOREVER472/AgregarOEliminarElementos/assets/69094327/7226c288-8115-4531-a695-92c2334f766a)
 
